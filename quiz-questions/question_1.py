@@ -13,4 +13,5 @@ def question_1():
     d) Collection
     """
     # Return the correct value.
-    pass
+    return "Boolean"
+ 
